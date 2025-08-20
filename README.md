@@ -6,4 +6,6 @@ In my HTML project, I have made a simple and informative website about the 7 won
 *Styled with a bright yellow background and a scrolling marquee header
 *Chatbot powered by Gemini API key. (For Python - import google.generativeai as genai)
 
->⚠️Please remember that if you find that the chatbot does not work, there is no API Key. If you would like to get an API Key, go to <a href="aistudio.google.com">AI Studio</a>
+>⚠️Please remember that if you find that the chatbot does not work, there is no API Key. If you would like to get an API Key, go to <a href="aistudio.google.com">aistudio.google.com</a>
+
+*If you liked this repository, you can star it and visit it on your homepage.
